@@ -1,6 +1,7 @@
 [
     {
         "id": "01",
+        "category_id": "1",
         "name": "Awesome React",
         "price": 89,
         "image": "https://banner2.cleanpng.com/20180410/dbq/kisspng-react-javascript-responsive-web-design-github-angu-github-5accac24ced243.4761515415233628528472.jpg",
@@ -8,6 +9,7 @@
     },
     {
         "id": "02",
+        "category_id": "2",
         "name": "Amazing JS",
         "price": 79,
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqYfbaJ3eCkft5cB1BjSSN8pwLqODTGLTqOXQyIUhvWQSVSPgyG6bI5iH4S3mCVPdIV7w&usqp=CAU",
@@ -15,13 +17,15 @@
     },
     {
         "id": "03",
-        "name": "Angular",
+        "category_id": "3",
+        "name": "Marvelous Angular",
         "price": 99,
         "image": "https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg",
         "details": "Angular is a TypeScript-based free and open-source web application framework lead by the Angular Team at Google and by a community of individuals and corporations. Angular is a complete rewrite from the same team that built AngularJS.  React is a JavaScript library, whereas Angular is a front-end framework. React uses one-way data binding and virtual DOM, whereas Angular uses two-way data binding and real DOM."
     },
     {
         "id": "04",
+        "category_id": "4",
         "name": "HTML 5",
         "price": 59,
         "image": "https://cdn-icons-png.flaticon.com/512/732/732212.png",
@@ -29,6 +33,7 @@
     },
     {
         "id": "05",
+        "category_id": "5",
         "name": "CSS Comfort",
         "price": 59,
         "image": "https://camo.githubusercontent.com/edc736634dd35b0f4008e2f7db456136b9fc0e1e7a4078bb72c7352b1bdf8a7e/68747470733a2f2f776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f6373732d332e737667",
@@ -36,6 +41,7 @@
     },
     {
         "id": "06",
+        "category_id": "6",
         "name": "Node Pro",
         "price": 79,
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png",
