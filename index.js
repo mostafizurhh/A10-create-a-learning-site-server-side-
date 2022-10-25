@@ -21,13 +21,18 @@ app.get('/courses/:id', (req, res) => {
     res.send(individualCourse);
 })
 
-app.get('/categories', (rew, res) => {
+app.get('/course-categories', (rew, res) => {
     res.send(categories)
 })
-app.get('/categories/:id', (req, res) => {
+app.get('/category/:id', (req, res) => {
     const id = req.params.id;
-    const course_category = courses.filter(course => course.category_id === id)
-    res.send(course_category)
+    if (id === '7') {
+        res.send(courses)
+    }
+    else {
+        const course_category = courses.filter(course => course.category_id === id)
+        res.send(course_category)
+    }
 })
 
 app.listen(port, () => {
