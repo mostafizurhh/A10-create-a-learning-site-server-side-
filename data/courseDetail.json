@@ -1,0 +1,44 @@
+[
+    {
+        "id": "01",
+        "name": "Awesome React",
+        "price": 89,
+        "image": "https://banner2.cleanpng.com/20180410/dbq/kisspng-react-javascript-responsive-web-design-github-angu-github-5accac24ced243.4761515415233628528472.jpg",
+        "details": "The React. js framework is an open-source JavaScript framework and library developed by Facebook. It's used for building interactive user interfaces and web applications quickly and efficiently with significantly less code than you would with vanilla JavaScript. This is very poupular for creating single page applications because it has so many rich component library which you can use for free to build your dream website."
+    },
+    {
+        "id": "02",
+        "name": "Amazing JS",
+        "price": 79,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqYfbaJ3eCkft5cB1BjSSN8pwLqODTGLTqOXQyIUhvWQSVSPgyG6bI5iH4S3mCVPdIV7w&usqp=CAU",
+        "details": "JavaScript, often abbreviated as JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. As of 2022, 98% of websites use JavaScript on the client side for webpage behavior, often incorporating third-party libraries. JavaScript is the world's most popular programming language. JavaScript is the programming language of the Web. JavaScript is easy to learn."
+    },
+    {
+        "id": "03",
+        "name": "Angular",
+        "price": 99,
+        "image": "https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg",
+        "details": "Angular is a TypeScript-based free and open-source web application framework lead by the Angular Team at Google and by a community of individuals and corporations. Angular is a complete rewrite from the same team that built AngularJS.  React is a JavaScript library, whereas Angular is a front-end framework. React uses one-way data binding and virtual DOM, whereas Angular uses two-way data binding and real DOM."
+    },
+    {
+        "id": "04",
+        "name": "HTML 5",
+        "price": 59,
+        "image": "https://cdn-icons-png.flaticon.com/512/732/732212.png",
+        "details": "HTML5 is a markup language used for structuring and presenting content on the World Wide Web. It is the fifth and final major HTML version that is a World Wide Web Consortium recommendation. The current specification is known as the HTML Living Standard. HTML is easy to learn and You will enjoy it!"
+    },
+    {
+        "id": "05",
+        "name": "CSS Comfort",
+        "price": 59,
+        "image": "https://camo.githubusercontent.com/edc736634dd35b0f4008e2f7db456136b9fc0e1e7a4078bb72c7352b1bdf8a7e/68747470733a2f2f776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f6373732d332e737667",
+        "details": "Cascading Style Sheets (CSS)is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript. CSS isn't considered as a programming languages because it only determine the structure and the style of the webpage you're building."
+    },
+    {
+        "id": "06",
+        "name": "Node Pro",
+        "price": 79,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png",
+        "details": "Node is an open-source, cross-platform, back-end JavaScript runtime environment that runs on a JavaScript Engine and executes JavaScript code outside a web browser, which was designed to build scalable network applications. It runs a single-threaded event loop registered with the system to handle connections, and each new connection causes a JavaScript callback function to fire."
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "id": "10",
+        "name": "Awesome React"
+    },
+    {
+        "id": "20",
+        "name": "Amazing JS"
+    },
+    {
+        "id": "30",
+        "name": "Angular"
+    },
+    {
+        "id": "40",
+        "name": "HTML 5"
+    },
+    {
+        "id": "50",
+        "name": "CSS Comfort"
+    },
+    {
+        "id": "60",
+        "name": "Node Pro"
+    }
+]
